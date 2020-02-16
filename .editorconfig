@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CA2234: Pasar objetos URI de sistema en lugar de cadenas
+dotnet_diagnostic.CA2234.severity = none
+
+# CA1707: Los identificadores no deben contener caracteres de subrayado
+dotnet_diagnostic.CA1707.severity = none
